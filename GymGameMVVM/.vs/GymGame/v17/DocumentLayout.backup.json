@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Media\\repos\\GymGameMVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Character\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\ThumbFight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\MotivationalVideos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\Jog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\Dumbells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Treadmill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Speech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Benchpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Archery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Interfaces\\IGymEquipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Services\\ProxyMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThumbFight.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\ThumbFight.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\ThumbFight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotivationalVideos.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\MotivationalVideos.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\MotivationalVideos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jog.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\Jog.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\Jog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dumbells.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\Dumbells.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment\\Dumbells.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Treadmill.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Treadmill.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Treadmill.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Speech.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Speech.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Speech.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Benchpress.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Benchpress.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Benchpress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Archery.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Archery.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Gym Equipment MEGA\\Archery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Character\\Person.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Character\\Person.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGymEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Interfaces\\IGymEquipment.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Interfaces\\IGymEquipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProxyMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Services\\ProxyMethods.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Services\\ProxyMethods.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\GymGame\\GymGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:58.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

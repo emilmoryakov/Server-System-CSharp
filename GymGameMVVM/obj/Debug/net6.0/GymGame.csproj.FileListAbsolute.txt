@@ -1,0 +1,15 @@
+C:\Users\Emil\Source\Repos\GymGame\GymGame\bin\Debug\net6.0\GymGame.exe
+C:\Users\Emil\Source\Repos\GymGame\GymGame\bin\Debug\net6.0\GymGame.deps.json
+C:\Users\Emil\Source\Repos\GymGame\GymGame\bin\Debug\net6.0\GymGame.runtimeconfig.json
+C:\Users\Emil\Source\Repos\GymGame\GymGame\bin\Debug\net6.0\GymGame.dll
+C:\Users\Emil\Source\Repos\GymGame\GymGame\bin\Debug\net6.0\GymGame.pdb
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\GymGame.csproj.AssemblyReference.cache
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\GymGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\GymGame.AssemblyInfoInputs.cache
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\GymGame.AssemblyInfo.cs
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\GymGame.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\GymGame.dll
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\refint\GymGame.dll
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\GymGame.pdb
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\GymGame.genruntimeconfig.cache
+C:\Users\Emil\Source\Repos\GymGame\GymGame\obj\Debug\net6.0\ref\GymGame.dll
