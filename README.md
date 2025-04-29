@@ -1,0 +1,1 @@
+This is only a part of the projects ive done on C#, as I have not used github in the past and had a hard drive corrupt that made me lose a large portion of my projects on my computer that were not stored online. 
