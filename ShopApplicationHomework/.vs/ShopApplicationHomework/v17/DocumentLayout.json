@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Media\\repos\\ShopApplicationHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9762A8B4-A248-4482-A08D-D79A6DFF5B12}|ShopApplicationHomework\\ShopApplicationHomework.csproj|d:\\media\\repos\\shopapplicationhomework\\shopapplicationhomework\\shopapplicationhomework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9762A8B4-A248-4482-A08D-D79A6DFF5B12}|ShopApplicationHomework\\ShopApplicationHomework.csproj|solutionrelative:shopapplicationhomework\\shopapplicationhomework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9762A8B4-A248-4482-A08D-D79A6DFF5B12}|ShopApplicationHomework\\ShopApplicationHomework.csproj|d:\\media\\repos\\shopapplicationhomework\\shopapplicationhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9762A8B4-A248-4482-A08D-D79A6DFF5B12}|ShopApplicationHomework\\ShopApplicationHomework.csproj|solutionrelative:shopapplicationhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9762A8B4-A248-4482-A08D-D79A6DFF5B12}|ShopApplicationHomework\\ShopApplicationHomework.csproj|d:\\media\\repos\\shopapplicationhomework\\shopapplicationhomework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9762A8B4-A248-4482-A08D-D79A6DFF5B12}|ShopApplicationHomework\\ShopApplicationHomework.csproj|solutionrelative:shopapplicationhomework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9762A8B4-A248-4482-A08D-D79A6DFF5B12}|ShopApplicationHomework\\ShopApplicationHomework.csproj|d:\\media\\repos\\shopapplicationhomework\\shopapplicationhomework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9762A8B4-A248-4482-A08D-D79A6DFF5B12}|ShopApplicationHomework\\ShopApplicationHomework.csproj|solutionrelative:shopapplicationhomework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopApplicationHomework",
+              "DocumentMoniker": "D:\\Media\\repos\\ShopApplicationHomework\\ShopApplicationHomework\\ShopApplicationHomework.csproj",
+              "RelativeDocumentMoniker": "ShopApplicationHomework\\ShopApplicationHomework.csproj",
+              "ToolTip": "D:\\Media\\repos\\ShopApplicationHomework\\ShopApplicationHomework\\ShopApplicationHomework.csproj",
+              "RelativeToolTip": "ShopApplicationHomework\\ShopApplicationHomework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T22:13:30.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Media\\repos\\ShopApplicationHomework\\ShopApplicationHomework\\Program.cs",
+              "RelativeDocumentMoniker": "ShopApplicationHomework\\Program.cs",
+              "ToolTip": "D:\\Media\\repos\\ShopApplicationHomework\\ShopApplicationHomework\\Program.cs",
+              "RelativeToolTip": "ShopApplicationHomework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:13:24.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Media\\repos\\ShopApplicationHomework\\ShopApplicationHomework\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopApplicationHomework\\Form1.cs",
+              "ToolTip": "D:\\Media\\repos\\ShopApplicationHomework\\ShopApplicationHomework\\Form1.cs",
+              "RelativeToolTip": "ShopApplicationHomework\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:12:56.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Media\\repos\\ShopApplicationHomework\\ShopApplicationHomework\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopApplicationHomework\\Form1.cs",
+              "ToolTip": "D:\\Media\\repos\\ShopApplicationHomework\\ShopApplicationHomework\\Form1.cs [Design]",
+              "RelativeToolTip": "ShopApplicationHomework\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:12:57.191Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

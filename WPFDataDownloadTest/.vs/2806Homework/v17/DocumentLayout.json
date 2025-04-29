@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Media\\repos\\2806Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20DD4AF9-730A-4DED-9621-A36E74D2CB96}|2806Homework\\2806Homework.csproj|d:\\media\\repos\\2806homework\\2806homework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20DD4AF9-730A-4DED-9621-A36E74D2CB96}|2806Homework\\2806Homework.csproj|solutionrelative:2806homework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DD4AF9-730A-4DED-9621-A36E74D2CB96}|2806Homework\\2806Homework.csproj|d:\\media\\repos\\2806homework\\2806homework\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DD4AF9-730A-4DED-9621-A36E74D2CB96}|2806Homework\\2806Homework.csproj|solutionrelative:2806homework\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DD4AF9-730A-4DED-9621-A36E74D2CB96}|2806Homework\\2806Homework.csproj|d:\\media\\repos\\2806homework\\2806homework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DD4AF9-730A-4DED-9621-A36E74D2CB96}|2806Homework\\2806Homework.csproj|solutionrelative:2806homework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Media\\repos\\2806Homework\\2806Homework\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "2806Homework\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Media\\repos\\2806Homework\\2806Homework\\AssemblyInfo.cs",
+              "RelativeToolTip": "2806Homework\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:11:04.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Media\\repos\\2806Homework\\2806Homework\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "2806Homework\\MainWindow.xaml",
+              "ToolTip": "D:\\Media\\repos\\2806Homework\\2806Homework\\MainWindow.xaml",
+              "RelativeToolTip": "2806Homework\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T22:10:56.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Media\\repos\\2806Homework\\2806Homework\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "2806Homework\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Media\\repos\\2806Homework\\2806Homework\\MainWindow.xaml.cs",
+              "RelativeToolTip": "2806Homework\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:10:56.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
