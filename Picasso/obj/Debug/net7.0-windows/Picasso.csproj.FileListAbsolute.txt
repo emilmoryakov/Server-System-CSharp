@@ -1,0 +1,6 @@
+C:\Users\Emil\source\repos\Picasso\obj\Debug\net7.0-windows\Picasso.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\Picasso\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Emil\source\repos\Picasso\obj\Debug\net7.0-windows\View\RegisterView.g.cs
+C:\Users\Emil\source\repos\Picasso\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Emil\source\repos\Picasso\obj\Debug\net7.0-windows\Picasso_MarkupCompile.cache
+C:\Users\Emil\source\repos\Picasso\obj\Debug\net7.0-windows\Picasso_MarkupCompile.lref

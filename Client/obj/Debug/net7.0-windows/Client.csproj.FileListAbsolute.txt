@@ -1,0 +1,5 @@
+C:\Users\Emil\source\repos\Client\obj\Debug\net7.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\Client\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Emil\source\repos\Client\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Emil\source\repos\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.cache
+C:\Users\Emil\source\repos\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.lref

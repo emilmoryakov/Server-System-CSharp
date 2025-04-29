@@ -29,6 +29,10 @@ namespace EntityFrameworkProject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Anthem")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<float>("Area")
                         .HasColumnType("real");
 
@@ -49,6 +53,10 @@ namespace EntityFrameworkProject.Migrations
 
                     b.Property<int>("Population")
                         .HasColumnType("int");
+
+                    b.Property<string>("RulerName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

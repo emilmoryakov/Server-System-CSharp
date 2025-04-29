@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\bin\Debug\net6.0\BridgeHW.exe
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\bin\Debug\net6.0\BridgeHW.deps.json
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\bin\Debug\net6.0\BridgeHW.runtimeconfig.json
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\bin\Debug\net6.0\BridgeHW.dll
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\bin\Debug\net6.0\BridgeHW.pdb
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\BridgeHW.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\BridgeHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\BridgeHW.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\BridgeHW.AssemblyInfo.cs
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\BridgeHW.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\BridgeHW.dll
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\refint\BridgeHW.dll
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\BridgeHW.pdb
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\BridgeHW.genruntimeconfig.cache
+C:\Users\Emil\source\repos\BridgeHW\BridgeHW\obj\Debug\net6.0\ref\BridgeHW.dll

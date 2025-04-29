@@ -1,18 +1,11 @@
 ﻿using EntityFrameworkProject.DbContexts;
+using EntityFrameworkProject.DbModels;
 using System;
-using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+
 
 namespace EntityFrameworkProject
 {
@@ -22,11 +15,13 @@ namespace EntityFrameworkProject
     public partial class MainWindow : Window
     {
         private readonly CountryDbContext CountryContext;
+        public ObservableCollection<Country> Countries { get; set; }
 
         public MainWindow()
         {
             InitializeComponent();
             CountryContext = new CountryDbContext();
+            Countries = new ObservableCollection<Country>();
             LoadCountries();
         }
 
@@ -34,9 +29,72 @@ namespace EntityFrameworkProject
         {
             var countries = CountryContext.Countries.ToList();
 
-            CountriesDataGrid.ItemsSource = countries;
+            foreach (var country in countries)
+            {
+                Countries.Add(country);
+            }
 
-            
+            CountriesDataGrid.ItemsSource = Countries;
+
+        }
+
+        private void SortComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            string selectedSortOption = SortComboBox.SelectedItem.ToString();
+
+            switch (selectedSortOption)
+            {
+                case "Sort by Name":
+                    ReturnCountriesSortedByName();
+                    break;
+                case "Sort by Population":
+                    ReturnCountriesSortedByPopulation();
+                    break;
+                case "Sort by GDP":
+                    ReturnCountriesSortedByGDP();
+                    break;
+                default:
+                    break;
+            }
+        }
+
+        private void ReturnCountriesSortedByGDP()
+        {
+            if (Countries != null)
+            {
+                var sortedCountries = Countries.OrderBy(c => c.GDP).ToList();
+                Countries.Clear();
+                foreach (var country in sortedCountries)
+                {
+                    Countries.Add(country);
+                }
+            }
+        }
+
+        private void ReturnCountriesSortedByPopulation()
+        {
+            if (Countries != null)
+            {
+                var sortedCountries = Countries.OrderBy(c => c.Population).ToList();
+                Countries.Clear();
+                foreach (var country in sortedCountries)
+                {
+                    Countries.Add(country);
+                }
+            }
+        }
+
+        private void ReturnCountriesSortedByName()
+        {
+            if (Countries != null)
+            {
+                var sortedCountries = Countries.OrderBy(c => c.Name).ToList();
+                Countries.Clear();
+                foreach (var country in sortedCountries)
+                {
+                    Countries.Add(country);
+                }
+            }
         }
     }
 }

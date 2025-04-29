@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UDPServer", "UDPServer\UDPServer.csproj", "{45B0AFEA-F250-4560-BC24-992CE64565BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UDPClient", "UDPClient\UDPClient.csproj", "{248B28CC-5C97-4AF7-A233-87447843A4CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UDPClient2", "UDPClient2\UDPClient2.csproj", "{EBB91F9A-5471-4456-BADA-E441506A1F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B0AFEA-F250-4560-BC24-992CE64565BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B0AFEA-F250-4560-BC24-992CE64565BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B0AFEA-F250-4560-BC24-992CE64565BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B0AFEA-F250-4560-BC24-992CE64565BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248B28CC-5C97-4AF7-A233-87447843A4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248B28CC-5C97-4AF7-A233-87447843A4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248B28CC-5C97-4AF7-A233-87447843A4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248B28CC-5C97-4AF7-A233-87447843A4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB91F9A-5471-4456-BADA-E441506A1F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB91F9A-5471-4456-BADA-E441506A1F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB91F9A-5471-4456-BADA-E441506A1F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB91F9A-5471-4456-BADA-E441506A1F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C21FC93F-C60E-4EAF-A985-C35F76BEEF66}
+	EndGlobalSection
+EndGlobal

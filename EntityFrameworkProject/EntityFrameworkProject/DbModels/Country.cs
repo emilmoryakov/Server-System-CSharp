@@ -17,6 +17,8 @@ namespace EntityFrameworkProject.DbModels
         public int Population { get; set;}
         public float Area { get; set; }
         public float GDP { get; set; }
+        public string Anthem { get; set; }
+        public string RulerName { get; set; }
 
     }
 

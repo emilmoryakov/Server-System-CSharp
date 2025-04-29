@@ -1,0 +1,5 @@
+C:\Users\Emil\source\repos\MagaPrimer\MagaPrimer\obj\Debug\net6.0\MagaPrimer.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\MagaPrimer\MagaPrimer\obj\Debug\net6.0\MagaPrimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\MagaPrimer\MagaPrimer\obj\Debug\net6.0\MagaPrimer.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\MagaPrimer\MagaPrimer\obj\Debug\net6.0\MagaPrimer.AssemblyInfo.cs
+C:\Users\Emil\source\repos\MagaPrimer\MagaPrimer\obj\Debug\net6.0\MagaPrimer.csproj.CoreCompileInputs.cache

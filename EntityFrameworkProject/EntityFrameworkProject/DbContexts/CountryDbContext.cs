@@ -7,6 +7,10 @@ namespace EntityFrameworkProject.DbContexts
     public class CountryDbContext : DbContext
     {
         public DbSet<Country> Countries { get; set; }
+        public CountryDbContext()
+        {
+            
+        }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -32,6 +36,8 @@ namespace EntityFrameworkProject.DbContexts
             country.Property(x => x.Population).IsRequired();
             country.Property(x => x.Area).IsRequired();
             country.Property(x => x.GDP).IsRequired();
+            country.Property(x => x.Anthem).IsRequired();
+            country.Property(x => x.RulerName).IsRequired();
         }
 
 

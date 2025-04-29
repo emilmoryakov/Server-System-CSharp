@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\hashcode\hashcode\bin\Debug\net6.0\hashcode.exe
+C:\Users\Emil\source\repos\hashcode\hashcode\bin\Debug\net6.0\hashcode.deps.json
+C:\Users\Emil\source\repos\hashcode\hashcode\bin\Debug\net6.0\hashcode.runtimeconfig.json
+C:\Users\Emil\source\repos\hashcode\hashcode\bin\Debug\net6.0\hashcode.dll
+C:\Users\Emil\source\repos\hashcode\hashcode\bin\Debug\net6.0\hashcode.pdb
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\hashcode.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\hashcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\hashcode.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\hashcode.AssemblyInfo.cs
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\hashcode.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\hashcode.dll
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\refint\hashcode.dll
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\hashcode.pdb
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\hashcode.genruntimeconfig.cache
+C:\Users\Emil\source\repos\hashcode\hashcode\obj\Debug\net6.0\ref\hashcode.dll

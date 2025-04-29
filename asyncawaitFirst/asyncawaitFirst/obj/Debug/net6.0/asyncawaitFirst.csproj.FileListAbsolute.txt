@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\bin\Debug\net6.0\asyncawaitFirst.exe
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\bin\Debug\net6.0\asyncawaitFirst.deps.json
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\bin\Debug\net6.0\asyncawaitFirst.runtimeconfig.json
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\bin\Debug\net6.0\asyncawaitFirst.dll
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\bin\Debug\net6.0\asyncawaitFirst.pdb
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\asyncawaitFirst.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\asyncawaitFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\asyncawaitFirst.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\asyncawaitFirst.AssemblyInfo.cs
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\asyncawaitFirst.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\asyncawaitFirst.dll
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\refint\asyncawaitFirst.dll
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\asyncawaitFirst.pdb
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\asyncawaitFirst.genruntimeconfig.cache
+C:\Users\Emil\source\repos\asyncawaitFirst\asyncawaitFirst\obj\Debug\net6.0\ref\asyncawaitFirst.dll
